@@ -1,0 +1,7 @@
+When you initialize a respository it creates a .git directory in the directory with the other files.  
+The .git directory is used to track the status and changes to the repository.
+
+When I did git status ... It did not say "Initial commit" but rather "No commits yet"
+
+Staging area is used to contain the files you want to commit.  Typically you add one 
+at a time to keep the changes small and logically connected.
