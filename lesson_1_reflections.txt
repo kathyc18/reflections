@@ -1,0 +1,23 @@
+
+It was critical to be able to see what changes between the working version and the new version that wasn't working.  
+It is very easy to make a typo ... especially in interprester languages where no compiler is going to catch them for you.
+
+
+Having easy access to the history of the file allows you to see changes over a
+ long period of time.
+
+I like having the control to group changes.  
+Also allows for reasonable description of change.
+
+Git saves all at once is good if files are relaly related - as they a=often are in code.  Google docs is much 
+broader type of usage and who knows how  the files might be related (or not)
+
+Use git log to find the commits to compare and then use git diff.  
+They are in reviewse order (newest on top)
+
+You can feel more confident making changes that could break something becuase
+you know you can revert back at any time
+
+
+
+
