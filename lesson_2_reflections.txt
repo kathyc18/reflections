@@ -9,3 +9,5 @@ at a time to keep the changes small and logically connected.
 You can use the staging area to make sure you have one commit by doing 
 $git diff --staged 
 which compares the staging area to what is in the most recent commit in the repository.
+
+Good to use branches when doing an experiemental feature or one for a next release.
