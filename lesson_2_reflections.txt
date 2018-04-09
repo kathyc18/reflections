@@ -11,3 +11,5 @@ $git diff --staged
 which compares the staging area to what is in the most recent commit in the repository.
 
 Good to use branches when doing an experiemental feature or one for a next release.
+
+Diagrams help you see where braches split off and if any commit is unreachable
