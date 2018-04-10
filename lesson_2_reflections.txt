@@ -13,3 +13,6 @@ which compares the staging area to what is in the most recent commit in the repo
 Good to use branches when doing an experiemental feature or one for a next release.
 
 Diagrams help you see where braches split off and if any commit is unreachable
+
+Where we merge 2 branches the changes in the files are merged together in a new commit.
+The new commit has 2 parents - one for each branch that was merged.
