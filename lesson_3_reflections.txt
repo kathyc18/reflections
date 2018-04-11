@@ -14,3 +14,7 @@ When would you use one instead of another?
 forks only happen in GitHub to copy a repository in GitHub
 clones copy repository either locally or from GitHub to local
 branches are within a repository on Git and GitHub
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can do work off-line in Git against the latest official repository
