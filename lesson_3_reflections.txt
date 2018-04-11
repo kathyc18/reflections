@@ -7,3 +7,10 @@ If someone else makes a change to the remote repository that conflicts with work
 doing locally and it automatically updates it would overwrite your changes at arbitrary
 times.  You could do the same to them.  Even if neither has a conflict the auto pull would overwrite 
 any changes you made.
+
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+forks only happen in GitHub to copy a repository in GitHub
+clones copy repository either locally or from GitHub to local
+branches are within a repository on Git and GitHub
