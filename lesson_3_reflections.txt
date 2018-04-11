@@ -1,1 +1,2 @@
 WHen would you want to create a remote respoitory rather than keeping all your work local?
+You need a remote respoitory when you want to share your work with other people.
