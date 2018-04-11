@@ -16,3 +16,6 @@ Diagrams help you see where braches split off and if any commit is unreachable
 
 Where we merge 2 branches the changes in the files are merged together in a new commit.
 The new commit has 2 parents - one for each branch that was merged.
+
+Pros of auto merging are that Git is safe about it and when it doubt does not merge.
+It also removes tedious work.  Con is that you may not know what got changed unless you look.
